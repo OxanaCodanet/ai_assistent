@@ -1,5 +1,5 @@
 # Проект: ИИ-ассистент для компании Codanet
-Ссылка на проект:https://t.me/Codanetinfo_bot
+Ссылка на проект: https://t.me/Codanetinfo_bot
 ---
 ![Иллюстрация к проекту](https://github.com/OxanaCodanet/ai_assistent/blob/main/Скрин%20разговора%20с%20ботом.jpg?raw=true)
 
@@ -141,8 +141,8 @@
 
 Если у вас есть вопросы или предложения по развитию проекта, свяжитесь с нами:
 
-- Email: contact@codanet.com
-- Website: https://www.codanet.com
+- Email: aiworkplace2024@gmail.com 
+- Website: https://kseni-art.ru/
 - GitHub: https://github.com/codanet/ai-assistant
 
 --- 
