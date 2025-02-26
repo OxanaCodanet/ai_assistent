@@ -1,7 +1,7 @@
 # Проект: ИИ-ассистент для компании Codanet
 Ссылка на проект:https://t.me/Codanetinfo_bot
 ---
-(https://github.com/OxanaCodanet/ai_assistent/blob/main/Скрин%20разговора%20с%20ботом.jpg?raw=true)
+![Иллюстрация к проекту](https://github.com/OxanaCodanet/ai_assistent/blob/main/Скрин%20разговора%20с%20ботом.jpg?raw=true)
 
 ## Оглавление
 
